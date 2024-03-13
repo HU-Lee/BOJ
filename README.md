@@ -34,7 +34,7 @@
 
 ## Description
 
-Problem solving on [BOJ][boj].  
+Problem solving in [BOJ][boj].  
 This repo is being synced by using [BaekjoonHub][bojhub]
 
 [boj]: https://www.acmicpc.net/user/haulrest
